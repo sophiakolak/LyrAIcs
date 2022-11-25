@@ -1,5 +1,7 @@
 # LyrAIcs
 
+![alt text](https://github.com/sophiakolak/LyrAIcs/blob/main/11.png?raw=true)
+
 A google collab notebook that uses machine learning to iteratively generate lyrics for a user-provided vocal melody, genre, mood, and story.
 
 ## Disclaimer 
